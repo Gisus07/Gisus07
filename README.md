@@ -48,8 +48,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gisus07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisus07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
+  <img src="https://gisus-stats-widc.vercel.app/api?username=Gisus07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://gisus-stats-widc.vercel.app/api/top-langs/?username=Gisus07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
 </p>
 
 <p align="center">
