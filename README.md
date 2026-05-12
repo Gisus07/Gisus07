@@ -45,6 +45,14 @@
 
 ---
 
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gisus07/Gisus07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 📊 Stats
 
 <p align="center">
