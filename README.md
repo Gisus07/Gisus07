@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gisus07&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gisus07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&hide=STARS,ISSUES,PULL_REQUEST,REVIEWS,MULTIPLE_LANG,LONG_COMMIT,ACHIEVEMENT" alt="trophies" />
 </p>
 
 ---
