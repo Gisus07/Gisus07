@@ -38,9 +38,8 @@
 
 ### 🌱 Currently learning / Aprendiendo ahora
 
-- 🌐 **Networking** — fundamentos sólidos: TCP/IP, DNS, HTTP/2, HTTP/3
+- 🌐 **Networking** — certificado por Cisco: Networking Basics, Network Addressing, Network Support and Security
 - 🔐 **Cybersecurity** — pentesting, OWASP Top 10, secure coding practices
-- 🦀 **Rust / Go** — curiosidad por lo que hay debajo del runtime
 - 🚀 Y todo lo que el día a día construyendo Kovni AI me obligue a aprender
 
 ---
@@ -74,7 +73,6 @@
   <a href="https://gisus.dev"><img src="https://img.shields.io/badge/-gisus.dev-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7" /></a>
   <a href="mailto:hola@gisus.dev"><img src="https://img.shields.io/badge/-hola@gisus.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/Gisus07"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-rodrigues-05974b290/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
