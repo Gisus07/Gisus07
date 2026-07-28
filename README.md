@@ -70,8 +70,8 @@
 ### 📫 Contacto / Contact
 
 <p align="center">
-  <a href="https://gisus.dev"><img src="https://img.shields.io/badge/-gisus.dev-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7" /></a>
-  <a href="mailto:hola@gisus.dev"><img src="https://img.shields.io/badge/-hola@gisus.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gisus07.dev"><img src="https://img.shields.io/badge/-gisus07.dev-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7" /></a>
+  <a href="mailto:hello@gisus07.dev"><img src="https://img.shields.io/badge/-hello@gisus07.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/Gisus07"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
