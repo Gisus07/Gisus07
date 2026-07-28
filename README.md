@@ -16,7 +16,7 @@
 - 💻 Full-stack: React/Vue en el front, NestJS en el back
 - 🐘 Cómodo con varias bases de datos: PostgreSQL, SQL Server, MySQL, SQLite
 - 🤖 Me gusta automatizar cosas: bots de Telegram, web scraping, asistentes con IA
-- 🌱 Programando desde 2022, vibe coding desde 2024 — mezclando disciplina e IA
+- 🌱 Programando desde 2022, con IA en el loop desde 2024 — mezclando disciplina e IA
 
 ### 🇬🇧 About me
 
@@ -24,7 +24,7 @@
 - 💻 Full-stack: React/Vue on the front, NestJS on the back
 - 🐘 Comfortable with multiple databases: PostgreSQL, SQL Server, MySQL, SQLite
 - 🤖 I love automating things: Telegram bots, web scraping, AI assistants
-- 🌱 Coding since 2022, vibe coding since 2024 — blending discipline with AI
+- 🌱 Coding since 2022, with AI in the loop since 2024 — blending discipline with AI
 
 ---
 
@@ -38,9 +38,9 @@
 
 ### 🌱 Currently learning / Aprendiendo ahora
 
-- 🔧 **NestJS** — yendo más allá de lo básico (decorators avanzados, microservicios, testing)
 - 🌐 **Networking** — fundamentos sólidos: TCP/IP, DNS, HTTP/2, HTTP/3
 - 🔐 **Cybersecurity** — pentesting, OWASP Top 10, secure coding practices
+- 🦀 **Rust / Go** — curiosidad por lo que hay debajo del runtime
 - 🚀 Y todo lo que el día a día construyendo Kovni AI me obligue a aprender
 
 ---
@@ -53,19 +53,17 @@
 
 ---
 
-### 📊 Stats
+### 📊 Lenguajes / Languages
 
 <p align="center">
-  <img src="https://gisus-stats-widc.vercel.app/api?username=Gisus07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
   <img src="https://gisus-stats-widc.vercel.app/api/top-langs/?username=Gisus07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisus07&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gisus07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&rank=-?" alt="trophies" />
+  <sub>
+    🇪🇸 Este es mi GitHub <b>personal</b>. El código del trabajo vive en GitLab, así que las cifras de aquí no cuentan toda la historia.<br/>
+    🇬🇧 This is my <b>personal</b> GitHub. Work code lives on GitLab, so the numbers here don't tell the whole story.
+  </sub>
 </p>
 
 ---
@@ -73,9 +71,10 @@
 ### 📫 Contacto / Contact
 
 <p align="center">
-  <a href="mailto:gisusjerg07@gmail.com"><img src="https://img.shields.io/badge/-gisusjerg07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gisus.dev"><img src="https://img.shields.io/badge/-gisus.dev-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7" /></a>
+  <a href="mailto:hola@gisus.dev"><img src="https://img.shields.io/badge/-hola@gisus.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Gisus07"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jes%C3%BAs-rodrigues-05974b290/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/-Website_Coming_Soon-555?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
 
 ---
